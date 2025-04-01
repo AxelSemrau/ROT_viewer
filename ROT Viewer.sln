@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROT Viewer", "ROT Viewer\ROT Viewer.csproj", "{4B7BC02F-5D72-4A75-B825-AEF8BBADFD64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComUtils", "ComUtils\ComUtils.csproj", "{75328D57-408B-4FEF-8B04-98DFF09FAA6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B7BC02F-5D72-4A75-B825-AEF8BBADFD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7BC02F-5D72-4A75-B825-AEF8BBADFD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7BC02F-5D72-4A75-B825-AEF8BBADFD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B7BC02F-5D72-4A75-B825-AEF8BBADFD64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75328D57-408B-4FEF-8B04-98DFF09FAA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75328D57-408B-4FEF-8B04-98DFF09FAA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75328D57-408B-4FEF-8B04-98DFF09FAA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75328D57-408B-4FEF-8B04-98DFF09FAA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F275BB7-46BE-43D5-8E86-1BB93B54A1B1}
+	EndGlobalSection
+EndGlobal
